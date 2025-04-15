@@ -391,3 +391,7 @@ Thanks go to these wonderful people (List made with [contrib.rocks](https://cont
 <a href="https://github.com/bezzad/downloader/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=bezzad/downloader" />
 </a>
+
+
+## Commit test:
+> `just test`
